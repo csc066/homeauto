@@ -48,5 +48,5 @@ mqtt:
   port: 1883
   client_id: home-assistant-1
   username: pi
-  password: raspberry
+  password: <password>
 
